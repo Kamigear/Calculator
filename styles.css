@@ -7,7 +7,7 @@ html{
 	font-family: monospace;
 }
 section{
-	background-color: rgb(18,26,31);
+	background-color: #06031d;
 	min-height: 100vh;
 	width: 100%;
 	display: flex;
@@ -17,13 +17,13 @@ section{
 .Container{
 	width: 90%;
 	max-width: 400px;
-	background-color: rgb(39,55,59);
+	background-color: #083837;
 	border-radius: 10px;
 	overflow: hidden;
 	margin: auto;
 }
 .Display{
-	background-color: rgb(182, 183, 182);
+	background-color: #9fdcff;
 	height: 100px;
 	width: 100%;
 	text-align: right;
